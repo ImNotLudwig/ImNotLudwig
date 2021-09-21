@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @ImNotLudwig
+- 👋 Hi, @ImNotLudwig
 - 👀 I’m interested in C++, and Java.
 - 🌱 I’m currently learning Java.
 - 💞️ I’m looking to collaborate on Password encryption software.
-- 📫 How to reach me https://discord.gg/code link to the Coding Den, you can reach me inside the server.
+- 📫 How to reach me https://discord.gg/code link to the Coding Den, you can reach me inside the server, just dm @I'mNotLudwig (sometimes I change my my name to I'mNotScaryLud, or I'mNotChristmasLud for festivity).
 
 <!---
 ImNotLudwig/ImNotLudwig is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
